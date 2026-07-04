@@ -46,7 +46,7 @@ export default function AmbientAudio() {
         ref={audioRef}
         loop
         preload="auto"
-        src="public\love story - indila (clean instrumental)(extended  good part loop).mp3"
+        src="love story - indila (clean instrumental)(extended  good part loop).mp3"
       />
       <button
         onClick={toggle}
