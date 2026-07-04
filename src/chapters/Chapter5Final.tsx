@@ -188,12 +188,8 @@ function Card() {
         <p className="card-line mt-4 text-[15px] leading-[1.85] text-[#3a2f22]">
           I just want you to know — no matter how far I am, I’ll always be there
           for you. If you make mistakes, I’ll be the one who explains it to you.
-          If you achieve something, I’ll be happier than anyone else for you.
-        </p>
-
-        <p className="card-line mt-4 text-[15px] leading-[1.85] text-[#3a2f22]">
-          Don’t ever feel like you’re alone. I’ll always be there for you, no
-          matter what.
+          If you achieve something, I’ll be happier than anyone else for you. I
+          will always be there for you, no matter what.
         </p>
 
         <div
