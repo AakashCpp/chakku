@@ -14,7 +14,7 @@ gsap.registerPlugin(ScrollTrigger);
  * always preserved — pause on mouse-leave, resume on re-enter.
  */
 
-const VIDEO_SRC = "public/VN20260705_032201.mp4";
+const VIDEO_SRC = "VN20260705_032201.mp4";
 
 export default function Chapter3Laptop() {
   const sectionRef = useRef<HTMLElement>(null);

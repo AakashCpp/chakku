@@ -17,7 +17,7 @@ type Memory = {
 
 const MEMORIES: Memory[] = [
   {
-    image: "public/IMG_20221203_141950852_HDR.jpg.jpeg",
+    image: "IMG_20221203_141950852_HDR.jpg.jpeg",
     index: "01",
     tone: "THE BEGINNING",
     title: "When we first met in college…",
@@ -26,14 +26,14 @@ const MEMORIES: Memory[] = [
       "Sometimes the most important people don’t enter your life early… they just enter at the right time.",
   },
   {
-    image: "public/IMG_20260411_175729.jpg.jpeg",
+    image: "IMG_20260411_175729.jpg.jpeg",
     index: "02",
     tone: "THE FRIENDSHIP DAYS",
     title: "Before anything else, we were friends.",
     body: "We laughed over random things, survived boring lectures, shared stupid stories, and created our own little college world. Before becoming anything like brother and sister, we became really good friends — the kind who just get each other without trying too hard.",
   },
   {
-    image: "public/IMG_20260613_171700.jpg.jpeg",
+    image: "IMG_20260613_171700.jpg.jpeg",
     index: "03",
     tone: "THE CONNECTION",
     title: "Somewhere along the way, it changed.",
@@ -41,7 +41,7 @@ const MEMORIES: Memory[] = [
     quote: "Not by blood, but by bond.",
   },
   {
-    image: "public/WhatsApp Image 2026-07-05 at 02.35.00.jpeg",
+    image: "WhatsApp Image 2026-07-05 at 02.35.00.jpeg",
     index: "04",
     tone: "THE PROMISE",
     title: "A bond that won’t fade with distance.",

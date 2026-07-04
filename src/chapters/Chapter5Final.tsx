@@ -65,7 +65,7 @@ function VideoMessage() {
             loop
             preload="auto"
             className="h-full w-full object-cover"
-            src="public\VN20260705_035237.mp4"
+            src="VN20260705_035237.mp4"
           />
           <div className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-black/20" />
 
