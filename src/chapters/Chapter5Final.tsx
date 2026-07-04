@@ -192,10 +192,8 @@ function Card() {
         </p>
 
         <p className="card-line mt-4 text-[15px] leading-[1.85] text-[#3a2f22]">
-          Even after college ends and life takes us in different directions, the
-          distance won’t change what you mean to me. In my heart, you’ll always
-          have a special place — my little sister, and more importantly, my
-          amazing friend.
+          Don’t ever feel like you’re alone. I’ll always be there for you, no
+          matter what.
         </p>
 
         <div
